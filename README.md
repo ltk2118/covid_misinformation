@@ -1,1 +1,1 @@
-# covid_misinformation
+# COVID Misinformation Text Classification Project
