@@ -1,4 +1,4 @@
-# COVID Misinformation Text Classification Project
+# COVID Misinformation Text Classification Modelling
 
 With Joy Zhang (Columbia University)
 
